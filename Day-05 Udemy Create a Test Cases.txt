@@ -1,0 +1,162 @@
+Day-04 Udemy:- Date:10-06-2024.
+-------------------------------
+How to create a test cases ?
+
+Test Case Name: User is not able to login-in invalid credentials.
+---------------
+Prerequisites: Need to have google chrome latest version.
+--------------
+
+Test Data:-
+----------
+username: proper@gmail.com
+password: myawesomepassword
+
+Test Steps:
+-----------
+1. Open Google Chrome.
+2. Go to www.imdb.com.
+3. Click on the "Sign-in" button.
+4. Click on "Sign in with IMDB".
+5. Enter "proper@gmail.com" into the Email filed.
+6. Enter "myawesomepassword" into the password filed.
+7. Click "Sign in"
+
+Expected Results:
+----------------
+User is not able to login-in-the system.
+Error message is displayed.
+
+
+Actual Result:-
+-------------
+User is not able to login-in-the system.
+Error message is displayed.
+
+
+Test Result:-
+-----------
+Passing/Pass.
+
+
+What is a Black Box Testing ?
+-----------------------------
+
+Black box testing, which is also known as behavioral, opaue-box, closed-box, specifiaction-based or
+eye-to-eye testing, is a software testing method that analyses the functionality of a 
+software/application without knowing much about the internal structure/design of the item that is
+being tested and compares the input values with the output value.
+
+
+The main foucs in black box testing is on the fuctionality of the system as a whole. The term
+"behavioral testing" is also used for black box testing. Behavioral test design is slighlty different from
+the black box test design beacse the use of internal knowledge isn't strictly forbidden, but it's still discouraged.
+
+Each testing method has its own advatages and disadvantages. There are some bugs that cannot be found using the only black box or only white box technique.
+Majority of the applications are tested by black box method. We need to cover the majority of the test cases so that most of the bugs will get discovered by a black-box method.
+
+The testing occurs throught the software development and testing life cycle i.e in Unit, Integration, System, Acceptance, and regression testing stages.
+
+This cann be both functaional or non-functiona.
+
+Types of Black Box Testing:-
+---------------------------
+
+
+What is a White Box Testing ?
+
+If we go by the definition, "White box testing" (also known as clear, glass box or structural testing) is a 
+testing techniue which evaluates the code and the internal structure of a program.
+
+White box testing invloves looking at the structure of the code. When you know the internal structure of a product, tests
+can be conducted to ensure that the internal operations perfored according to the 
+specification. And all internal components have been adequately exercised.
+
+
+
+
+What is Cross Browser Testing ?
+
+
+Cross Browser Testing is a process to test web application across multiple browsers.
+Cross Browser testing invloves checking compatibility of your application across multiple web browsers and ensures
+that your web application works correctly across diffrent web browsers.
+
+
+What is User Acceptance Testing (UAT) ?
+
+User Acceptance Testing is the process of verifying that a created solution/software works for 'the user'.
+This might sound easy enough but, in practice, it isn't .
+User Acceptance Tests consist of a set of test steps, which verify if specific requirements are working for the user.
+
+
+Software Development Process           Testing Methodologies
+----------------------------	       ---------------------
+
+    Client Needs       <--------------> Acceptance Testing
+	|					^
+       	\/					|
+   Reuirements         <--------------->  System Testing
+        |					^
+	\/					|
+   Designs             <---------------->  Integration Testing
+       |					^
+       \/					|
+     Coding            <----------------->   Unit Testing
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

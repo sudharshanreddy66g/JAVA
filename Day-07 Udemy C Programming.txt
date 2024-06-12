@@ -1,0 +1,272 @@
+Day-07 C# or Java-Which One is Better Date:12-06-2024
+--------------------------------------------------
+
+21). C# or Java - Which One is Better ?
+
+
+#1.Paradigm
+------------
+
+Java:-
+-----
+class-based, Object-Oriented
+language derived 
+from c++.
+
+C#:-
+----
+
+Object-Oriented, component-Oriented,
+functional, strong typing.
+
+
+#2. Application:-
+----------------
+
+Java:-
+-----
+Complex web based, highly
+concurrent application.
+
+C#:-
+---
+
+Wb and game development, popular for mobile
+development.
+
+
+#3. Project:-
+------------
+
+Java:-
+-----
+
+Suited for complex web
+based concurrency project.
+
+
+C#;-
+----
+Best suited for game development projects.
+
+
+#4.Usage:-
+--------
+Java:-
+----
+Messaging, web application, highly concurrent application.
+
+
+C#:-
+---
+Games, mobile development, virtual reality.
+
+
+--> educba.com/java-vs-C-sharp
+
+
+Hello and welcome to this video.
+
+Now I'm going to talk about what are the differences between Java and C sharp and to which programming
+
+language is better.
+
+And honestly I don't want you to think about programming languages like that like one is better than
+
+the other.
+
+And I know that a lot of people are comparing them and they are so hard core Java fans or so hard core
+
+C sharp fans.
+
+But what they want you to understand is that a programming language is just a tool and different tools
+
+have different purposes.
+
+So for example if you're going to build a game in unity of course you're going to use C sharp for that.
+
+And if if you're going to if you want to become Android developer and develop Android applications mobile
+
+applications you're going to use Java for that.
+
+So my point here is that programming language language is just a tool.
+
+And one programming language is not better than another programming language.
+
+They're just used for different things and depending on what you want to create you're going to use
+
+a certain language but don't be like these guys that they're saying hold Java is the only programming
+
+language for me in the world I'm not using anything else.
+
+Be open minded.
+
+Try to learn as much as you can and not think that you need to learn 50 programming languages.
+
+You need to specify something and become really good at that but you also need to be open minded and
+
+accept to learn other things as well.
+
+So what are the.
+
+The basic differences between the languages both see sharp and Java are object oriented programming
+
+languages.
+
+You Sharp is new words.
+
+So Java was created by Oracle and it was created before C sharp so C sharp is the more recent language
+
+in a lot of the things in C sharp are basically the same like the things in Java.
+
+It's all programming languages have the the same basics in the same programming foundations.
+
+So again don't be one of these guys that is only hardcore one programming language.
+
+Of course there are differences in the languages but like I said the basics the foundation is basically
+
+the same.
+
+A lot of similarities in C sharp and Java.
+
+Java is a complex web based highly concurrent application where C shape C sharp is web and game development
+
+popular format for mobile development.
+
+Basically a lot of big companies and big applications are using Java because Java has been here forever
+
+like Facebook uses Java as long as other programming languages.
+
+Amazon uses Java and other programming languages so you can see that a lot of big huge companies are
+
+using it.
+
+So you can say more stable because it's on the market forever.
+
+On the other hand C sharp is created by Microsoft.
+
+It's a newer more recent programming language than Java.
+
+But it's still on the market for a lot of years and people are starting to appreciate and to realize
+
+how good good of a programming language see sharpies.
+
+And it's basically a lot of the things in C sharp or the same like in Java and you can you see sharp
+
+also for web development as well as it's very popular for game development with Unity Java is suited
+
+for complex web based concurrency project in C sharp is best suited for game development projects which
+
+I think C sharp is great also for web development and the tools the idea that we're using for Java it's
+
+eclipse not beans or Intel idea.
+
+I personally like the Intel J.
+
+Most of these end for C sharp.
+
+We are using Visual Studio.
+
+I think both of these ideas ideas are great intelligent individuals to do so like I said the programming
+
+language is just a tool that you're using to create something.
+
+And depending on what you want to create you're using you're going to use different languages.
+
+Sue sharp in Java have a lot of similarities basically that the basics of the language is absolutely
+
+the same.
+
+You just need to get familiar with the syntax and you're good to go.
+
+I my advice here is don't look at languages like this one is better than the other.
+
+Try to be open minded try to learn as much thanks.
+
+As you can.
+
+And later on when you put it on your CV for example you have been working one project on Java and the
+
+other one on C sharp.
+
+It will look good because you have experienced a lot of things and you have knowledge in a lot of things
+
+not only in one programming language.
+
+So think of this as an opportunity to learn new things.
+
+You see that a lot of the things are similar in the two languages.
+
+They're both great languages and they're great depending on things that you want to create with them.
+
+
+Section 4:C# or Java - Which One is Better:-
+-------------------------------------------
+
+--> Intro
+--> Installing Visual Studio - Your Development Environment.
+--> Understand Basic Programming.
+
+namespace MyFirstProject
+{
+	class Program
+	{
+	   // This is a method caled "Main"
+	   // Our program starts from here
+	   static void Main(string[] args)
+	   {
+	      Console.WriteLine("What is your favourate number?");
+	      Console.ReadLine();
+	      Console.WriteLine("WOW, that's my favorite number as well!");
+
+	   }
+
+	}
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

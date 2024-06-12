@@ -1,0 +1,56 @@
+/*
+
+Perfect Number
+--------------
+-> A number whose sum of factors except itself is eual to the 
+given number is known as a perfect number.
+
+Ex:-
+----
+
+int n=6;
+
+  factors = 1, 2, 3, 6
+  1+2+3
+
+Ex:-
+---
+
+int n = 4;
+       1,2,4
+       1+2=3
+
+
+And Square root:-
+--------------
+
+Ex:-
+---
+
+int n = 9;
+    1 * 1 ==9
+    2 * 2 == 9
+    3 * 3 == 9
+
+o/p = The square root of the given number is 3.
+
+Ex:- int n=5;
+     1 * 1 ==5
+     2 * 2 == 5
+     3 * 3 == 5
+     4 * 4 == 5
+     5 *5 == 5
+
+O/P = No square root
+
+Steps :-
+-------
+
+-> Take the input
+-> Traverse until use give the number.
+
+
+
+
+
+*/

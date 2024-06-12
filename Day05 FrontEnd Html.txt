@@ -1,0 +1,83 @@
+Day-05 Front End :-
+------------------
+HTML :-
+------
+What is difference between element & tag ?
+desciption list (dl).
+description details (dd).
+description term (dt).
+
+
+Img tag:-
+--------
+
+Image tag is used to display the images in a webpage
+by linking them. It is defined by attribtes like src, weight, height,
+cross-origin.
+
+
+<head>
+<title></title>
+</head>
+<body>
+	<h2> </h2>
+	<img></img>
+          alt=" "
+	  style=
+</body>
+
+
+Adding image in animated format in HTML:-
+----------------------------------------
+
+Anchor tag:-
+----------
+The <a> tag defines a hyperlink, which is used to link from 
+
+href - hyper text reference link.
+
+
+Linking image with anchor tag:-
+------------------------------
+Whenever the clicking on the image.
+
+What are the iframes ?
+Which purpose of iframes ?
+https://www.geeksforgeeks.org/courses/dsa-to-development-coding-guide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

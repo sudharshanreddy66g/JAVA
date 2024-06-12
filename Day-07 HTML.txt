@@ -1,0 +1,87 @@
+Day-07 HTML CLass Date:12-06-2024
+---------------------------------
+
+
+forms:-
+-----
+
+What is a forms ?
+
+Form is used to collect the inputs from the user via variety of
+interactive controls. These controls range from text fileds,
+numeric inputs, email fileds, passwords fileds, check boxes,
+radio buttons, submit buttons. Hml forms serves as versatile
+container to coleect input form users and there by enhancing
+user interaction.
+
+
+Syntax:-
+------
+
+<form>
+// form elements.
+
+</form>
+
+
+
+Form Elements:-
+--------------
+
+Form compromise of several elements each justifies unique purpose.
+
+Let us see the elements of forms:-
+----------------------------------
+
+
+1. Label :- It defines the label for form elements.
+2. Input :- Takes input from the user of 
+3. Button :- 
+4. Select:- It used to create a drop-down list.
+5. Textarea:- It is used to get input long text content.
+6. Fieldset:- It is used to draw a box around form elements and group the related data.
+7. Legend:- It defines a caption for fieldset elements.
+8. Option:- It is used to define options in a drop-down list.
+9. Optgroup:- It is used to define group-related ptions in a drop-down list.
+10. Datalist:- It is used to specify predefined list options for input control.
+
+
+Ex:-
+---
+
+<html>
+<head>
+title>Html Form</title>
+<body>
+<h2> HTML FORMS</h2>
+<form>
+<label for="username">Username:</label><br>
+<input type="text" id="Username
+</form>
+</body>
+</head>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

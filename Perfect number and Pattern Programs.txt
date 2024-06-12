@@ -1,0 +1,47 @@
+/*
+
+Automorpic Number
+-----------------
+
+-> Take user number 
+Ex:- int n=25;
+-> Square the given number.
+Ex:- int n=23;
+int sq=n*n; //625
+-> You need check the given no
+present in square last digits or not.
+
+Patterns:-
+---------
+
+every pattern convert into the table formate.
+
+-> co-ordinations the combnation of rows and columns.
+
+
+patterns:-
+---------
+int n==3;
+for(int row=1;row<=n;i++)
+{
+	for(int col=1;col<=n;col++)
+	{
+
+	   if(row == 1)
+	   {
+	      System.out.print("*");
+	   }
+	   else
+	   {
+	     System.out.print(" ");
+	   }
+	    System.out.println();
+	}
+}
+ 
+row row<=n col col<=n row==1     * * *
+1   1<=3    1  1<=3    1==1
+            2  2<=3    1==1 
+	    3  3<=3    1==1
+	    
+*/

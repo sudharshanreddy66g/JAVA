@@ -1,0 +1,60 @@
+Day-04
+------
+HTML:-
+-----
+
+Fieldset tag:-
+------------
+
+It is used to group .
+
+Footer tag:-
+----------
+
+-> Copyright information.
+-> Authorship information.
+-> Contact information.
+-> Back to top links.
+-> Related documents.
+-> Related documents.
+
+Section tag:-
+------------
+Legend documents:-
+------------------
+
+
+Lists:-
+------
+
+List is a record of related information, used to displa the data or any infomation.
+
+-> Order list.
+-> Unorder List or Bulleted List.
+-> Description.
+
+
+
+What tags do you know ?
+What is a difference bettwen div tag and span tga ?
+
+What are iframes ?
+Which purpose of iFrames ?
+In which case we use iFrames ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

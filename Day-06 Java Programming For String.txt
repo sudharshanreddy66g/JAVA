@@ -1,0 +1,249 @@
+Day-06 Java String Programming Date:11-06-2024
+-----------------------------------------------
+
+
+Strings:-
+----------
+1). WAJP to find the string length ?
+
+Ex:- String s="Hello";
+s.length();
+System.out.println(s.length());
+
+2). WAJP Print first and last character in given string ?
+
+Ex:-
+---
+
+String s="Hello";
+charAt(indexvalue);
+s.charAt(0);
+s.charAt(s.lenght()-1);
+
+3). WAJP to print first and last character seperated by comma ?
+
+Ex:-
+--
+String s = "Bangalore";
+
+   o/p :- B,e
+
+
+4). WAJP to print even index characters ?
+
+Ex:-
+--
+
+String s = " P r o g r a m m i n g  ";
+             0 1 2 3 4 5 6 7 8 9 10
+
+
+o/p: pormig
+    index % 2==0
+	
+   Ex:- 0 % 2 ==0
+   ---
+
+5). WAJP to print even index characters seperated by comma ?
+
+Ex:-
+---
+
+String s = "B a n g a l o r e";
+	    0 1 2 3 4 5 6 7 8
+
+B, n, l, r  : o/p
+	    -----
+
+6). WAJP to convert lower case to upper case without using inbuilt methods ?
+
+Ex:-
+---
+
+String s = " Hello";
+	
+s.toUpperCase();(inbuilt method not use the progrma);
+
+ASCI values :-
+-------------
+
+a ---> 97  
+A ---> 65
+    97
+    32 -
+  ------
+    65
+-----------
+
+
+b ---> 98
+B ---> 66
+ 
+z
+Z  } 32
+
+
+
+7). WAJP to convert uppercase to lowercase without using the inbuilt methods ?
+
+Ex:-
+---
+
+A -> 65
+        + 32
+a -> 97
+
+
+8). WAJP to print reverse of a string ?
+
+String s = "H e l l o";
+	    0 1 2 3 4
+
+o/p :- olleH
+
+s1+= length()-1;
+<------------
+  Backword direction
+
+8). WAJP to revesre of a string use swapping ?
+
+
+Ex:-
+--
+String s1 = "java";
+
+	java // avaj
+
+	<---------
+	0 1 2 3
+       i       j
+
+9). WAJP to check given string is palindrom or not ?
+
+
+Ex:-
+--
+
+String s1="MADAM";
+                   ] -- Given string is palindrom	
+	   MADAM
+
+ch[i]==ch[j]
+
+10). WAJP to print occurance of a given String ?
+
+Ex:-
+---
+String s= "Hello";
+
+
+H -> 1
+e -> 1
+l -> 2
+o -> 1
+
+11). WAJP to check occurance of a given character ?
+
+Ex:-
+---
+String s1="Hello";
+
+   char ch='e';
+
+
+12). WAJP to print vowels in the given string ?
+
+Ex:-
+---
+
+aeiou
+
+String s = "java";
+
+
+a== j --> x
+a==a --> a=vowel.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

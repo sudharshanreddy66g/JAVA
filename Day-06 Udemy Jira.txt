@@ -1,0 +1,843 @@
+Day-06 Udemy:-
+-------------
+
+What is JIRA ?
+
+JIRA is a tool developed by Austrialian Company Atlassian. It is used for bug tracking, issue tracking, and project management.
+The name "JIRA" is actually inherited from the Japanese word "Gojira" which means "Godzilla".
+The basic use of this tool is to track issue and bugs related to your software.
+It is also used for project management. The JIRA dashboard consists of many useful functions and features
+which make handling of issues easy.
+
+
+What is a Regression Testing ?
+
+Regression Testing is defined as a type of software testing to confirm that a recent program or code change
+has not adversely affected existing features.
+Regression Testing is nothing but a full or partial selection of already executed test cases which are re-executed
+to ensure existing functionalities work fine.
+This testing is done to make sure that new code should not have side effects on the existing functionalities.
+It ensures that the old code still works once the new code changes are done.
+
+What is Exploratory Testing ?
+
+Exploratory testing is all about discovery, investigation, and learning.
+It emphasizes personal freedom responsibility of the individual tester.
+It is defined as a type of testing where Test Cases are not created in advance but testers check system on the fly.
+They may note down ideas about what to test before test execution. The focus of exploratory testing is more on testing as a
+"thinking" activity.
+
+User scripted testing, you design test cases first and later proceed with test execution. On the contrary, 
+exploratory testing is a simultaneous process of test design and test execution all done at the same time.
+Scripted Test Execution is usually a non-thinking activity where testers execute thetest steps and compare the actual results
+with expected results. Such test execution activity can be automated and does not require many cognitive skills.
+Though the current trend in software testing is to push for automation, exploratory testing is a new way of thinking.
+Automation has its limits.
+
+
+
+Difference between Volume Testing and Load Testing ?
+
+
+Volume Testing:-
+---------------
+Volume Testing is a type of software testing that is performed to test the performance or behavior of the system or application 
+under the huge amount of data. Volume testing is also called flood testing and it is a type of performance testing.
+
+Load Testing:-
+------------
+Load Testing is a type of software testing that is performed to test the performance or behavior of the system under the expected
+load of real world. Load testing is also a type of performance testing.
+
+
+Difference between Volume and Load Testing:-
+-------------------------------------------
+
+
+Volume Testing				                   Load Testing	
+--------------				                    ------------
+
+1). Volume testing is a software testing performed to     1). Load testing is a software tetsing performed to test the 
+    test the system under huge data load.		      performance of the system under real life load.
+
+2). Data loss is tested during volume testing.		  2). Data loss is not tested during load testing.
+
+3). In volume testing, load is huge volume of data.	  3). In load testing, load is customers's exceptations based.
+
+4). Volume testing is used to measure the throught of     4). Load testing is used to measure the performance of the system.
+    the system.
+
+5). Volume testing makes the system capable of real 	 5). Load testing makes the system capable according to end users.
+    world use.
+
+6). Voulme tetsing saves maintenance cost.		 6). Load testing doesn't save maintenance cost.
+
+7). Volume testing checks system's reponse time. 	 7). Load testing checks system's performance.
+
+
+
+
+When should you Automate ?
+
+Hello everyone.
+
+In this video I'm going to talk about automation and when should you move or when should you move from
+
+manual to automation.
+
+They think and the Jazz heart to that is basically when you have tasks that you that you're repeating
+
+over and over and over and over again then you want to think about automating these tasks then to avoid
+
+repetitive work.
+
+If you're doing a one task 15 times per day and you're basically doing the same things and clicking
+
+the same buttons over and over again maybe it's going to be smarter to automate this task into running
+
+automatically every single day and to forget about it in the future but this is just the simple answer.
+
+The more comprehensive answer is that not everything can be automated.
+
+So is automation something really nice really cool something really necessary.
+
+Absolutely automation is the the way to go and automation is going.
+
+This is the future.
+
+Everything is getting automated basically and this is definitely the future you want to learn automation.
+
+But if you don't have any experience in testing and you're just starting out do you want to learn automation
+
+from the beginning.
+
+Absolutely not.
+
+I think you should first start with manual testing and you should learn the basics.
+
+You should learn the basics like reading the requirements from the client and knowing how the whole
+
+process the software development lifecycle is working.
+
+You should know how to write test cases how to execute test cases.
+
+Basically you have to be a really good manual Kia or a manual Tester.
+
+And after that you can move on without permission.
+
+I think you should move should learn automation but only after you have a really good foundation and
+
+understanding of the whole process.
+
+So automation is definitely something that you want to learn.
+
+It's really powerful tool to automate tasks into to keep them running keep them in the back.
+
+Can you just check the results.
+
+But what's in the beginning.
+
+You should definitely learn your basic testing skills your manual skills your understanding of the whole
+
+process and only after that you should learn automation and something very important is that automation
+
+can not be done to every single task.
+
+You can not automate everything.
+
+First of all automation is.
+
+Yes.
+
+Yes it's a looks.
+
+It's something that takes a lot of time.
+
+Not everybody can do it.
+
+Not everybody have time to do it because sometimes in your project you have deadlines and your client
+
+wants this functionality to be done and to be delivered to him as soon as possible and you have a deadline
+
+and you don't have time to to create automation dates.
+
+So you're just manually tested.
+
+Try us.
+
+Try your best to do it as soon as possible so you can release to the production and the client so the
+
+client is.
+
+You should give more time and you have somebody that can do automation tests then you can start implementing
+
+implementing selenium you selenium UI automation tests but they take a lot more time and also need not
+
+everything can be automated.
+
+So automation is the way to go.
+
+But first learn your basics your foundation and after that move on to automation.
+
+Interview Questions - Preparing for You First Manual QA Job :-
+-------------------------------------------------------------
+
+
+1). What do you know about Software Development Life Cycle ?
+2). What is a test case ?
+3). What kind of testing do you know ?
+4). What is a bug ?
+5). What is the difference between white box and black box testing ?
+6). What is exploratory testing ?
+7). What is UAT and  who is doing it ?
+8). What is cross browser testing ?
+9). What is difference between volume and load testing ?
+10). Can you automate every test case ?
+11). What is Regression Testing ?
+12). What is JIRA used for ?
+13). What are you going to do if you find a major defect in the system you are testing ?
+
+ANS All Questions:-
+------------------
+
+Hello everyone and welcome to this listen.
+
+I'm really excited that you're being here because this is the end of the course now and you should be
+
+ready for applying to your first career job and this whole course we've been preparing you for your
+
+first KIA job.
+
+So the interview questions will that I have prepared for you are basically everything that I told you
+
+so far in this course.
+
+And I want to to ask you this question now is these questions now.
+
+And to answer them once again because I want you two to understand all of this and to have some kind
+
+of answers when you're going to your first job when you're applying for your first job and you're into
+
+an interview a lot of these questions actually all of these questions I have been asked when I first
+
+started applying for jobs.
+
+So I want to teach you how to handle an interview process and how to make a good impression on somebody
+
+and how to land the job as a mediocre engineer.
+
+So as I said the whole course is basically a preparation for your first job.
+
+But let's do it once again in this video.
+
+So the first question that I have put here is what do you know about the software development lifecycle.
+
+And when they ask you this you should say what they told you in the beginning of the course that software
+
+development life's lifecycle is a process for developing a software product.
+
+And the first phase is coming with requirements from the client.
+
+After that when you have all the necessary requirements is coming the design phase the UK or UX designer
+
+is creating the designs for the client.
+
+And when the client approves these designs then the implementation phase comes.
+
+This is the coding phase in the developers are actually creating the product.
+
+After that the case Engineers are testing the product and if they approve the product after that the
+
+the software application is is being deployed to the production.
+
+That means that the client gets its product.
+
+And after that the the team the scrum team is maintaining the product.
+
+So something like supporting the product to then to the next six months.
+
+This is what the software development lifecycle is.
+
+Next question is what is a test case again.
+
+You shouldn't you should know all of these things you can watch the previous sessions but here I just
+
+want to answer with a quick quick answer is that this is how are going to react and to and to answer
+
+these questions.
+
+If you're on interview So what is a test case a test case it's implementation of test steps.
+
+And when you execute them you're verifying certain functionality.
+
+Basically this case is just a test.
+
+The steps that you're executing into in the end of the test gives you verify that the functionality
+
+is working or not working as expected.
+
+What kind of testing do you know here you should see that they're mainly there are two kinds of testing
+
+functional and non-functional the functional testing are related to the functions of the product and
+
+non-functional is related to the performance of the product.
+
+And just like I told you in the earlier stations in here you can also you can also see all kinds of
+
+testing that you can think of for example on unit testing integration testing stress testing volume
+
+testing globe testing regression testing exploratory testing all kinds of testing.
+
+Did you know you can just say one or two words for them.
+
+You're right you're really going to shine in.
+
+You're going to look really good if you see like 10 10 types of testing can you.
+
+You can say one or two words about each one of them.
+
+And this is for the Junior.
+
+Of course you're going to shine What is a book a book is Every single thing that is not working as expected.
+
+So basically you have requirements you know how something should work how this functionality should
+
+work if it is there is something that is not working as expected.
+
+It's a book so everything that is not working as expected.
+
+What's the difference between white books and Black Books this thing with black books testing.
+
+You have input and you're just verifying the final the expected result but you don't know what is happening
+
+in the back of the program.
+
+So you're testing the functionality from user point of view in the white box.
+
+They think you're testing the internal side of the program.
+
+So basically you're testing the code you're testing the security and you know exactly what is happening
+
+behind the scenes what is exploratory testing.
+
+Exploratory testing is trying to find defects into the system without having a script and take tips
+
+to execute your logging into the system and you're trying to break it with everything that comes into
+
+your mind.
+
+You're just exploring the system and trying to find defects.
+
+What is your lady and queen doing it.
+
+You had these things for user acceptance testing and this is done by the user.
+
+So after the implementing of the product after the very.
+
+Verifying the product from the QE team and after deploying the product then the user then the the client
+
+the final user can do this user acceptance testing in law in order to verify that the product is working
+
+as expected.
+
+This is the final phase of the on top of the product development.
+
+What is cross browser testing.
+
+Cross browser testing is testing the application in different browsers in order to verify that the application
+
+is working as expected in different browsers.
+
+For example Firefox Safari Chrome Internet Explorer and you can also say mobile application as well.
+
+What is the difference between volume and flow testing.
+
+Here you can nation the example that I gave you earlier in this course with the upload functionality.
+
+So volume testing would be increasing the volume of the file.
+
+So one huge file with increased size and load testing will be many small files uploaded to the system
+
+for example.
+
+Two three four thousand files and put small files uploaded to the system.
+
+Can you out meet a test case.
+
+No.
+
+Automation something that have to be really carefully thought and some test cases are just not applicable
+
+for automation automation is really powerful tool.
+
+But you should first do your manual testing.
+
+You should know how the application should work and up after that you can decide which test cases should
+
+be automated.
+
+But not every single test case should be ultimate what is regression testing regression testing is verifying
+
+that old functionalities are still working as expected after uploading new functionalities basically
+
+verifying that the system be verifying that the new code is not breaking the old one what is Jura used
+
+for.
+
+Jura is a project management tool and book tracking tool and it's used for manage your project and to
+
+create user stories and tasks basically to mange the project and to track the progress of the team.
+
+What are you going to do if you find the major defect in the system you're testing.
+
+If they find a major defect defect in the system I think I'm going to report the book immediately to
+
+the developers and to the project manager of the team so everybody knows about this and the developers
+
+can start fixing the problem as soon as possible and the project manager can do the documentation.
+
+If something has to be done related to the client and after I report immediately to the team I'm going
+
+to create the bug report explaining everything about the book about the defect how I feel how I found
+
+the defect I'm going to attach screenshots.
+
+Basically this question is is a common sense but I just wanted to answer it for you because this is
+
+something that I have been asked on the interview and that's it.
+
+These are the questions that I believe are more than enough for you to start your first Q a job.
+
+And I am sure that you are going to do just fine.
+
+These are the foundations of the manual.
+
+Kia engineer the junior manual QE engineer.
+
+This is a job that allows you to enter the I.T. field and we all know that this field is really rewarding.
+
+And we hear a lot of benefits a lot of perks a good salary into this field so you can you can become
+
+a just Kia engineer and change your life and change your family's life.
+
+That's why I want to help you.
+
+I want to teach you all of these because I was a few years ago.
+
+I was working something completely different and the salary the salary was not even near to the salary
+
+that I'm taking as a key engineer.
+
+So I think everybody can learn these things and everybody can apply them.
+
+Everybody can find a job and really change his life for a better.
+
+So I hope that you'll learn a lot from this and I will see you in the next lesson.
+
+
+QA Salary - How Much Money QA Makes :-
+--------------------------------------
+
+
+Hello everyone.
+
+Today I'm going to talk about something that probably you're really interested about and this is what
+
+is the salary of the QE engineer or how much money.
+
+K. engineers are making and of course you're interested in that.
+
+I was also interested in that.
+
+I went before I started this job.
+
+And it's something really normal normal to to look for something better and normal to look to improve
+
+your life and to have a better job to support your family or yourself to buy your home or whatever is
+
+your mission in your goals.
+
+So to answer this question it's it really depends on a lot of things.
+
+It depends of your experience the paints or where is your job and which country if you're going to work
+
+in the United States for example.
+
+Which state are you working in.
+
+It depends on a lot of things but the average salary of the Q engineer is seventy one thousand dollars
+
+almost seventy two so seventy one nine hundred twenty seven dollars is the average pay in the.
+
+This is the the official statement but by the glass door and that's a lot of money for a lot of people
+
+that's a lot of money.
+
+Let's see how much is that per month.
+
+So 7 1 seventy one thousand nine hundred and twenty seven dollars divided by twelve.
+
+You're going to make five thousand nine hundred ninety three dollars per month almost six thousand dollars
+
+per month and you should know that depends on a lot of things.
+
+It depends on your experience of course.
+
+In the beginning you're going to start for for a lower amount you may start for fifty thousand dollars
+
+but still this is for.
+
+For many people that's a lot of money.
+
+And when you grow when you make when you have more experience you're going to grow you're going to grow
+
+your title you're going to start fresh start for example with a manual Kia engineer manual junior engineer.
+
+After that you may become only just Kia engineer so mid level you may become senior car engineer or
+
+automation key engineer you may become a test lead you may become key manager there is a lot of room
+
+to grow and to to have a much bigger salary than this so you may start for a low for a lower than that
+
+but there is also the opportunity to the opportunity to grow to ninety thousand dollars to one hundred
+
+thousand dollars per year and to make a lot of money.
+
+And if we scroll down you will see that there are a lot of job posts from companies like GM where that
+
+salary swung from within 1000 dollars self sales force one hundred eighteen thousand dollars in April.
+
+Engineers are making 1000 and twelve.
+
+Average salary you can see that a lot of companies are posting these salaries and they are between 9000
+
+and one thing within something that's a lot of money for for a lot of people.
+
+So if you start if you start even with something like 50 60 thousand dollars your salary will grow exponentially
+
+with your experience when you make what even with one year of experience you can become so valuable
+
+to a company that you can you can make a lot of money with this job and becoming a becoming engineer
+
+in the I.T. field can really change your life and really improve your family's life.
+
+That's why I am doing this course.
+
+I want to help as much as much people as they can to try to talk to choose this career path to change
+
+their careers and to just to have better life because this kind of money can it can change your life.
+
+And also it's a great career you can.
+
+You can be really happy with doing this if you like it.
+
+I think it's a great job.
+
+It's not like you're all day working on the sun and doing some physical job you're going to work into
+
+a nice office and in the ideal I.T. field there are a lot of benefits like free food into the office
+
+like sports cards and a lot of cool benefits.
+
+And also there is a lot of demand.
+
+So OK all kinds of huge big companies are looking for developers and great engineers.
+
+So if you enter this field you can really change your life.
+
+So I encourage you to learn what I just told you in this course to watch it again if you need to and
+
+to just to apply apply to a job even if you if you fail a couple of times the interview process is so
+
+his have a learning curve by itself.
+
+Before I start my first job as a cue engineer I have tried more than 15 interviews probably 20 interviews.
+
+I was failing one after another one after another and they were rejecting me or I was I didn't like
+
+the company or they didn't like me but I applied to almost 20 jobs before I started my first job.
+
+So I would say Don't get discouraged if you fail one time two time three times five times.
+
+Just go and do it again do it again.
+
+After the interview you will get better and more comfortable with talking with these kinds of people
+
+with human resources and like I said this interview process have a learning curve.
+
+By itself you will become better even with interviews.
+
+When you go through your 20th interview you feel like you're at home.
+
+You will not even look stressed or nervous.
+
+You will just go there talk.
+
+Talk with them really naturally.
+
+Answer all their questions because you already know what they are going to ask.
+
+Q You have been to 20 interviews and I'm sure that you can find the job as well.
+
+Q Changing your mind you can change your life for the better.
+
+
+Make Money Testing Websites From Home :-
+--------------------------------------
+
+$10-$15 for 20 minutes of work.
+
+1). https://www.usertesting.com
+2). https://www.trymyui.com
+3). https://www.userlytics.com
+
+Hello everyone.
+
+In this video I want to show you how you can make some money from dating Web sites and in the beginning.
+
+I want to tell you that this is not something that is going to you are going to make a living from but
+
+this is just a way to make or 10 15 dollars for 20 minutes half an hour by texting Web sites.
+
+If this is something that you would like to do to to get some extra money on the side of your job consider
+
+this like a side geek something that you can do in your free time after work or meet the weekends you
+
+can.
+
+You can learn from these Web sites around ten dollars to fifteen dollars for about 20 minutes of work.
+
+And this is a Web site that customers are applauding.
+
+Their customers are recruiting testers to test the functionalities of their Web sites and basically
+
+to improve to get the feedback and to improve their Web sites.
+
+And the first Web site is this one user testing.
+
+Dot com.
+
+So let me show you how it looks like user testing.
+
+Popcorn.
+
+And like I told you you just come here you registered to the website site you give them your e-mail
+
+and when there is a project that is suitable for you they're going to contact you.
+
+They're going to send you an e-mail to tell you there is available project something like that.
+
+You can create.
+
+You can test it now and take your commission something like this but you should know that there are
+
+a lot of people to these Web sites.
+
+And when there is a open project you have to be really quick in order to take it because they sent these
+
+e-mails to a lot of people and for example you they need 10 people the first 10 people will get the
+
+job and get the money.
+
+And it also depends quite a lot on from your location.
+
+So if you're into working into the United States for example you may have a lot more projects than if
+
+you're working eat into for example Turkey or some other place.
+
+But just keep this in mind that this really depends on your location.
+
+For me personally personally I get very probably I have done not more than 50 dollars than these Web
+
+sites for six months.
+
+So it's not a lot of money.
+
+So don't expect something really big from this.
+
+It's just a plus.
+
+Just something to add to your to your revenue.
+
+It's not something that you're going to make a living from.
+
+This is something that you can just make like a side geek if you want to make some extra cash.
+
+It's not going to be huge amount of cash and just some extra.
+
+This is the second Web site.
+
+Try my UI dot com and the third Web site is use a little X dot com and all of them are doing the same
+
+thing.
+
+Basically you are tasting something from a user point of view.
+
+You are logging into the application doing some basic tests for about 20 minutes 20 30 minutes maximum
+
+and you're getting 10 to 15 dollars.
+
+It's it's OK if you think about it.
+
+If you make two dates per week you can make twenty dollars and just like this 20 30 dollars.
+
+Again not a big amount of money but you can do it as a site think and just to make some extra cash if
+
+you need it.
+
+I hope that was useful.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
